@@ -1,3 +1,6 @@
+# Author: Mani Majd, Oscar Anacleto Krause
+# Source: ESC180 Project 1
+
 def initialize():
     '''Initializes the global variables needed for the simulation.
     Note: this function is incomplete, and you may want to modify it'''
