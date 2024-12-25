@@ -40,7 +40,7 @@ if __name__ == '__main__':
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/health-hedons-tracker.git
+   git clone https://github.com/health-hedons-tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
